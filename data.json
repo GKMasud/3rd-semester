@@ -1,0 +1,145 @@
+{
+  "categories": [
+    {
+      "n": "Headsets",
+      "i": "🎧"
+    },
+    {
+      "n": "Controllers",
+      "i": "🎮"
+    },
+    {
+      "n": "Keyboards",
+      "i": "⌨️"
+    },
+    {
+      "n": "Jerseys",
+      "i": "👕"
+    },
+    {
+      "n": "Merchandise",
+      "i": "🖱️"
+    }
+  ],
+  "products": [
+    {
+      "id": "P001",
+      "name": "Pro X Wireless Headset",
+      "price": 6500,
+      "stock": 18,
+      "cat": "Headsets"
+    },
+    {
+      "id": "P002",
+      "name": "Elite Esports Controller",
+      "price": 7800,
+      "stock": 12,
+      "cat": "Controllers"
+    },
+    {
+      "id": "P003",
+      "name": "RGB Mechanical Keyboard",
+      "price": 5200,
+      "stock": 25,
+      "cat": "Keyboards"
+    },
+    {
+      "id": "P004",
+      "name": "Championship Team Jersey",
+      "price": 3200,
+      "stock": 31,
+      "cat": "Jerseys"
+    },
+    {
+      "id": "P005",
+      "name": "Pro Gaming Mouse",
+      "price": 2900,
+      "stock": 42,
+      "cat": "Merchandise"
+    },
+    {
+      "id": "P006",
+      "name": "Streaming Mic Pro",
+      "price": 5900,
+      "stock": 15,
+      "cat": "Merchandise"
+    }
+  ],
+  "games": [
+    {
+      "name": "PUBG Mobile",
+      "unit": "coins"
+    },
+    {
+      "name": "Free Fire",
+      "unit": "diamonds"
+    }
+  ],
+  "packs": [
+    {
+      "id": "PUBG01",
+      "game": "PUBG Mobile",
+      "coins": 60,
+      "price": 100
+    },
+    {
+      "id": "PUBG02",
+      "game": "PUBG Mobile",
+      "coins": 325,
+      "price": 500
+    },
+    {
+      "id": "PUBG03",
+      "game": "PUBG Mobile",
+      "coins": 660,
+      "price": 1000
+    },
+    {
+      "id": "PUBG04",
+      "game": "PUBG Mobile",
+      "coins": 1800,
+      "price": 2500
+    },
+    {
+      "id": "FF01",
+      "game": "Free Fire",
+      "coins": 100,
+      "price": 100
+    },
+    {
+      "id": "FF02",
+      "game": "Free Fire",
+      "coins": 310,
+      "price": 300
+    },
+    {
+      "id": "FF03",
+      "game": "Free Fire",
+      "coins": 520,
+      "price": 500
+    },
+    {
+      "id": "FF04",
+      "game": "Free Fire",
+      "coins": 1060,
+      "price": 1000
+    }
+  ],
+  "discounts": {
+    "GAME10": 10,
+    "GAMER15": 15,
+    "PUBG5": 5,
+    "FREEFIRE5": 5
+  },
+  "payments": [
+    "Card",
+    "Mobile Banking",
+    "Cash on Delivery"
+  ],
+  "pipeline": [
+    "Processing",
+    "Packed",
+    "Shipped",
+    "Delivered"
+  ]
+}
